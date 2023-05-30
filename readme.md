@@ -1,13 +1,8 @@
-# smol developer
+# AI dev
 
-***Human-centric & Coherent Whole Program Synthesis*** aka your own personal junior developer
-
-> [Build the thing that builds the thing!](https://twitter.com/swyx/status/1657578738345979905) a `smol dev` for every dev in every situation
-
-this is a prototype of a "junior developer" agent (aka `smol dev`) that scaffolds an entire codebase out for you once you give it a product spec, but does not end the world or overpromise AGI. instead of making and maintaining specific, rigid, one-shot starters, like `create-react-app`, or `create-nextjs-app`, this is basically [`create-anything-app`](https://news.ycombinator.com/item?id=35942352) where you develop your scaffolding prompt in a tight loop with your smol dev.
-
-AI that is helpful, harmless, and honest is complemented by a codebase that is simple, safe, and smol - <200 lines of Python and Prompts, so this is easy to understand and customize.
-
+<b>Summary</b>
+An AI that writes entire programs on almost any language and platform.
+Make a detailed product spec prompt use chat GPT to help you and be amazed.
 <p align="center">
   <img height=200 src="https://pbs.twimg.com/media/FwEzVCcaMAE7t4h?format=jpg&name=large" />
 </p>
